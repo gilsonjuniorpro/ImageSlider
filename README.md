@@ -1,6 +1,6 @@
 # ImageSlider
 
-This is a simple project using retrofit to get weather information from Open Weather API - This project was made as part of the Live videos by <b>Neto Marin</b>
+This is a simple project using ViewPager2 to show a modern Image Slider
 
 ## How is this App
 <img src="http://www.projectconnect.com.br/github_imagens/image_20200415105612.png" width="25%"></img>
