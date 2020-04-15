@@ -16,30 +16,30 @@ class MainActivity : AppCompatActivity() {
         val arrayList = ArrayList<TravelLocation>()
 
         val travelLocation1 = TravelLocation(
-            "title",
-            "location",
-            "http://www.projectconnect.com.br/github_imagens/mustang_01.jpg",
-            4.5f
+            "Anguilla is blessed with many a stunning beach, but Maundays Bay",
+            "Maundays Bay, Anguilla",
+            "http://www.projectconnect.com.br/github_imagens/anguilla.jpg",
+            4.9f
             )
 
         val travelLocation2 = TravelLocation(
-            "title",
-            "location",
-            "http://www.projectconnect.com.br/github_imagens/mustang_02.jpg",
-            4.5f
+            "Kiawah Island, a mostly private, gated community, less than a hours drive from Charleston International Airport",
+            "Kiawah Island, SC",
+            "http://www.projectconnect.com.br/github_imagens/kiawah.jpg",
+            4.7f
         )
 
         val travelLocation3 = TravelLocation(
-            "title",
-            "location",
-            "http://www.projectconnect.com.br/github_imagens/mustang_03.jpg",
-            4.5f
+            "Undeniably one of the most photographed beaches in the Caribbean, if not the world, Trunk Bay sits in the northwestern corner of the Virgin Islands National Park",
+            "Trunk Bay, St. John, USVI",
+            "http://www.projectconnect.com.br/github_imagens/trunk.jpg",
+            4.6f
         )
 
         val travelLocation4 = TravelLocation(
-            "title",
-            "location",
-            "http://www.projectconnect.com.br/github_imagens/mustang_04.jpg",
+            "Shockingly, Palawan remains steadily under the radar, even though it continues to rank highly in our Readers' Choice Awards.",
+            "El Nido, Palawan, Philippines",
+            "http://www.projectconnect.com.br/github_imagens/elnido.jpg",
             4.5f
         )
 

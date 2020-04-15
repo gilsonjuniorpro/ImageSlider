@@ -42,16 +42,20 @@ class TravelLocationsAdapter(private val travelLocationsList: List<TravelLocatio
         private val kbvLocation: KenBurnsView
         private val tvLocation: TextView
         private val tvStarRating: TextView
+        private val tvDescription: TextView
+
         fun setLocationData(travelLocation: TravelLocation) {
             Picasso.get().load(travelLocation.imageUrl).into(kbvLocation)
             tvLocation.text = travelLocation.location
             tvStarRating.text = travelLocation.starRating.toString()
+            tvDescription.text = travelLocation.description
         }
 
         init {
             kbvLocation = itemView.findViewById(R.id.kbvLocation)
             tvLocation = itemView.findViewById(R.id.tvLocation)
             tvStarRating = itemView.findViewById(R.id.tvStarRating)
+            tvDescription = itemView.findViewById(R.id.tvDescription)
         }
     }
 
