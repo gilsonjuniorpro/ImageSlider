@@ -18,7 +18,6 @@ This is a simple project using ViewPager2 to show a modern **Image Slider**
 - [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar)
 
 ### Libraries
-
 ```bash
     implementation 'com.google.android.material:material:1.1.0'
     implementation 'com.squareup.picasso:picasso:2.71828'
