@@ -24,3 +24,10 @@ This is a simple project using ViewPager2 to show a modern **Image Slider**
     implementation 'com.flaviofaria:kenburnsview:1.0.7'
     implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.3'
  ```
+ 
+### Donation
+If this project help you reduce time to develop, you can buy me a cup of coffee :) 
+
+<a href="https://www.buymeacoffee.com/gilsonjuniorpro" target="_blank">
+    <img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" >
+</a>
